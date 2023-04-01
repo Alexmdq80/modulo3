@@ -1,0 +1,106 @@
+#header-nav {
+  background-color: #999999;
+  padding-top: auto;
+  padding-bottom: 1em;
+  border: 3px solid black;
+
+}
+
+#marca {
+  padding-left: 0em;
+  margin-left: 0.5em; 
+  font-size: 2em; 
+}
+
+#item {
+
+  background-color: #999999;
+  padding-top: 0.5em;
+
+}
+
+#caja {
+  width: auto;
+  margin: auto 1em auto 1em;
+
+}
+
+p {
+
+  text-align: left;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  
+}
+
+
+
+body {
+
+  font-family: Comic Sans MS, cursive;
+  font-size: 16px;
+
+}
+
+/*.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+
+}*/
+
+/*.navbar-header button.navbar-toggle {
+  clear: both;
+}*/
+/*esto parece no hacer nada*/
+
+#nav-list {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0em;
+  padding: 0px 0px 0px 0px;
+}
+
+#nav-list a:hover  {
+  background: #E7E7E7;
+}
+
+#menu {
+  margin-top: 5.0em;
+  margin-bottom: 1em;
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+@media (min-width: 992px)  {
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px)  {
+
+
+
+}
+
+@media (min-width: 577px) and (max-width: 767px)  {
+
+
+}
+
+@media (max-width: 576px) {
+
+#header-nav {
+  background-color: #999999;
+  padding-top: 1.5em;
+  padding-bottom: 1.em;
+
+
+}
+
+
+
+
+
+
+
+
+
